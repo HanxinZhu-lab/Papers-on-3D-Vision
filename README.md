@@ -355,9 +355,14 @@ J Jung, J Han, H An, J Kang, S Park, S Kim
 [[Paper](https://arxiv.org/pdf/2403.09413.pdf)]  [[Code](https://ku-cvlab.github.io/RAIN-GS/)]  
 
 **Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing**  
-Tian-Xing Xu, Wenbo Hu, Yu-Kun Lai, Ying Shan, Song-Hai Zhang
+Tian-Xing Xu, Wenbo Hu, Yu-Kun Lai, Ying Shan, Song-Hai Zhang  
 *arXiv preprint, 2024*  
 [[Paper](https://arxiv.org/pdf/2403.10050.pdf)]  
+
+**Shape of Motion: 4D Reconstruction from a Single Video**  
+Qianqian Wang*, Vickie Ye*, Hang Gao*, Jake Austin, Zhengqi Li, Angjoo Kanazawa  
+*arXiv preprint, 2024*  
+[[Paper](https://arxiv.org/pdf/2407.13764)]  [[Code](https://github.com/vye16/shape-of-motion/)]  [[Project Page](https://shape-of-motion.github.io/)]  
 
 ## 3D Representation Learning
 **ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding**  
