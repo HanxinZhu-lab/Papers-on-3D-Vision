@@ -199,7 +199,7 @@ Junwu Zhang, Zhenyu Tang, Yatian Pang, Xinhua Cheng, Peng Jin, Yida Wei, Munan N
 
 
 ## 4D Generation
-**Diffusion^2: Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**
+**Diffusion^2: Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**  
 Zeyu Yang*, Zijie Pan*, Chun Gu, Li Zhang
 *arXiv Preprint*   
 [[Paper](https://arxiv.org/abs/2404.02148)] [[Code](https://github.com/fudan-zvg/diffusion-square)]
