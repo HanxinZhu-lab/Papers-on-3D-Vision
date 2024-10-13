@@ -198,6 +198,13 @@ Junwu Zhang, Zhenyu Tang, Yatian Pang, Xinhua Cheng, Peng Jin, Yida Wei, Munan N
 [[Paper](https://arxiv.org/abs/2312.13271)] [[Project Page](https://pku-yuangroup.github.io/repaint123/)]  
 
 
+## 4D Generation
+**Diffusion^2: Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**
+Zeyu Yang*, Zijie Pan*, Chun Gu, Li Zhang
+*arXiv Preprint*   
+[[Paper](https://arxiv.org/abs/2404.02148)] [[Code](https://github.com/fudan-zvg/diffusion-square)]
+
+
 ## 3D Editing
 **Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**  
 Lu Yu, Wei Xiang, Kang Han  
