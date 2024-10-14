@@ -366,6 +366,18 @@ Tian-Xing Xu, Wenbo Hu, Yu-Kun Lai, Ying Shan, Song-Hai Zhang
 *arXiv preprint, 2024*  
 [[Paper](https://arxiv.org/pdf/2403.10050.pdf)]  
 
+## 4D Reconstruction
+
+**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**  
+Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin  
+*CVPR 2024*  
+[[Paper](https://arxiv.org/abs/2309.13101)]  [[Code](https://github.com/ingra14m/Deformable-3D-Gaussians)]  [[Project Page](https://ingra14m.github.io/Deformable-Gaussians/)]  
+
+**4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**  
+Guanjun Wu, Taoran Yi, Jiemin Fang, Lingxi Xie, Xiaopeng Zhang, Wei Wei, Wenyu Liu, Qi Tian, Xinggang Wang  
+*CVPR 2024*  
+[[Paper](https://arxiv.org/abs/2310.08528)]  [[Code](https://github.com/hustvl/4DGaussians)]  [[Project Page](https://guanjunwu.github.io/4dgs/)]  
+
 **Shape of Motion: 4D Reconstruction from a Single Video**  
 Qianqian Wang*, Vickie Ye*, Hang Gao*, Jake Austin, Zhengqi Li, Angjoo Kanazawa  
 *arXiv preprint, 2024*  
