@@ -404,4 +404,19 @@ Junsheng Zhou, Jinsheng Wang, Baorui Ma, Yu-Shen Liu, Tiejun Huang, Xinlong Wang
 *ICLR, 2024*    
 [[Paper](https://arxiv.org/abs/2310.06773)]  [[Code](https://github.com/baaivision/Uni3D)]  
 
+## 3D Compression
 
+**CompGS:Efficient 3D Scene Representation via Compressed Gaussian Splatting**  
+Xiangrui Liu, Xinju Wu, Pingping Zhang, Shiqi Wang, Zhu Li, Sam Kwong
+*CVPR, 2024*    
+[[Paper](https://arxiv.org/abs/2404.09458)] 
+
+**Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**  
+Tao Lu, Mulin Yu, Linning Xu, Yuanbo Xiangli, Limin Wang, Dahua Lin, Bo Dai
+*CVPR, 2024*    
+[[Paper](https://arxiv.org/abs/2312.00109)] 
+
+**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression**  
+Yihang Chen, Qianyi Wu, Weiyao Lin, Mehrtash Harandi, and Jianfei Cai
+*CVPR, 2024*    
+[[Paper](https://arxiv.org/abs/2403.14530)] 
