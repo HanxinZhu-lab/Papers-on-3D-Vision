@@ -400,11 +400,70 @@ Qianqian Wang*, Vickie Ye*, Hang Gao*, Jake Austin, Zhengqi Li, Angjoo Kanazawa
 *arXiv preprint, 2024*  
 [[Paper](https://arxiv.org/pdf/2407.13764)]  [[Code](https://github.com/vye16/shape-of-motion/)]  [[Project Page](https://shape-of-motion.github.io/)]  
 
+**Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting**  
+Jiawei Xu1 , Zexin Fan1 , Jian Yang , Jin Xie
+*NeurIPS, 2024*  
+[[Paper](https://arxiv.org/abs/2410.20815)]  
 
 **Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting**  
 Jeongmin Bae, Seoha Kim, Youngsik Yun,Hahyun Lee, Gun Bang, and Youngjung Uh
-*CVPR, 2024*  
+*ECCV, 2024*  
 [[Paper](https://arxiv.org/abs/2404.03613)]  
+
+**S4D: STREAMING 4D REAL-WORLD RECONSTRUCTION WITH GAUSSIANS AND 3D CONTROL POINTS**  
+Bing He & Yunuo Chen & Guo Lu  & Qi Wang  & Qunshan Gu  & Rong Xie  & Li Song  †& Wenjun Zhang 
+*arXiv preprint, 2024*  
+[[Paper](https://arxiv.org/abs/2408.13036)]  
+
+**Dynamics-Aware Gaussian Splatting Streaming  Towards Fast On-the-Fly Training for 4D Reconstruction**  
+Zhening Liu, Yingdong Hu, Xinjie Zhang, Jiawei Shao, Zehong Lin , Jun Zhang
+*arXiv preprint, 2024*  
+[[Paper](https://arxiv.org/abs/2411.14847)]  
+
+**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**  
+Ruijie Zhu, Yanzhe Liang, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang ,Yongdong Zhang
+*NeurIPS, 2024*  
+[[Paper](https://arxiv.org/abs/2410.07707)]  
+
+**Motion-aware 3D Gaussian Splatting  for Efficient Dynamic Scene Reconstruction**  
+Zhiyang Guo , Wengang Zhou , Li Li, Min Wang , and Houqiang Li
+*arXiv preprint, 2024*  
+[[Paper](https://arxiv.org/abs/2403.11447)]  
+
+**MODGS: DYNAMIC GAUSSIAN SPLATTING FROM  CASUALLY-CAPTURED MONOCULAR VIDEOS**  
+Qingming Liu, Yuan Liu, Jiepeng Wang, Xianqiang Ly, Peng Wang, Wenping Wang, Junhui Hou
+*arXiv preprint, 2024*  
+[[Paper](https://arxiv.org/abs/2406.00434)]  
+
+**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**  
+Zhicheng Lu,* Xiang Guo, Le Hui, Tianrui Chen, Min Yang, Xiao Tang, Feng Zhu, Yuchao Dai
+*CVPR, 2024*  
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lu_3D_Geometry-Aware_Deformable_Gaussian_Splatting_for_Dynamic_View_Synthesis_CVPR_2024_paper.html)]  
+
+**MEGA: MEMORY-EFFICIENT 4D GAUSSIAN SPLATTING FOR DYNAMIC SCENES**  
+Xinjie Zhang,Zhening Liu, Yifan Zhang, Xingtong Ge, Dailan He, Tongda Xu, Yan Wang, Zehong Lin, Shuicheng Yan, Jun Zhang
+*arXiv preprint, 2024*  
+[[Paper](https://arxiv.org/abs/2410.13613)]  
+
+**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**  
+Youtian Lin, Zuozhuo Dai, Siyu Zhu, Yao Yao
+*CVPR, 2024*  
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lin_Gaussian-Flow_4D_Reconstruction_with_Dynamic_3D_Gaussian_Particle_CVPR_2024_paper.html)]  
+
+**Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis**  
+Zhan Li, Zhang Chen, Zhong Li, Yi Xu
+*CVPR, 2024*  
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Spacetime_Gaussian_Feature_Splatting_for_Real-Time_Dynamic_View_Synthesis_CVPR_2024_paper.html)]  
+
+**3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of  Photo-Realistic Free-Viewpoint Videos**  
+Jiakai Sun, Han Jiao, Guangyuan Li, Zhanjie Zhang, Lei Zhao, Wei Xing
+*CVPR, 2024*  
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_3DGStream_On-the-Fly_Training_of_3D_Gaussians_for_Efficient_Streaming_of_CVPR_2024_paper.html)]  
+
+**REAL-TIME PHOTOREALISTIC DYNAMIC SCENE REPRESENTATION AND RENDERING WITH 4D GAUSSIAN  SPLATTING**  
+Zeyu Yang, Hongye Yang, Zijie Pan, Li Zhang
+*ICLR, 2024*  
+[[Paper](https://arxiv.org/abs/2310.10642)]  
 
 
 ## 3D Representation Learning
