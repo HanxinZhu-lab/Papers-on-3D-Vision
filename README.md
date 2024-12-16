@@ -366,6 +366,23 @@ Tian-Xing Xu, Wenbo Hu, Yu-Kun Lai, Ying Shan, Song-Hai Zhang
 *arXiv preprint, 2024*  
 [[Paper](https://arxiv.org/pdf/2403.10050.pdf)]  
 
+### Hierarchical Representation
+
+**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**  
+Kerui Ren, Lihan Jiang, Tao Lu, Mulin Yu, Linning Xu, Zhangkai Ni, Bo Dai  
+*arXiv preprint, 2024*  
+[[Paper](https://arxiv.org/abs/2403.17898)]  [[Code](https://github.com/city-super/Octree-GS)]  [[Project Page](https://city-super.github.io/octree-gs/)]
+
+**A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets**  
+Bernhard Kerbl, Andréas Meuleman, Georgios Kopanas, Michael Wimmer, Alexandre Lanvin, George Drettakis  
+*arXiv preprint, 2024*  
+[[Paper](https://arxiv.org/abs/2406.12080)]  [[Code](https://github.com/graphdeco-inria/hierarchical-3d-gaussians)]  [[Project Page](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/)]
+
+**LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming**  
+Yuang Shi, Simone Gasparini, Géraldine Morin, Wei Tsang Ooi  
+*3DV 2024*  
+[[Paper](https://arxiv.org/abs/2408.14823)]  [[Code](https://github.com/nus-vv-streams/lapis-gs)]  [[Project Page](https://yuang-ian.github.io/lapisgs/)]
+
 ## 4D Reconstruction
 
 **Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**  
@@ -414,16 +431,29 @@ Junsheng Zhou, Jinsheng Wang, Baorui Ma, Yu-Shen Liu, Tiejun Huang, Xinlong Wang
 ## 3D Compression
 
 **CompGS:Efficient 3D Scene Representation via Compressed Gaussian Splatting**  
-Xiangrui Liu, Xinju Wu, Pingping Zhang, Shiqi Wang, Zhu Li, Sam Kwong
+Xiangrui Liu, Xinju Wu, Pingping Zhang, Shiqi Wang, Zhu Li, Sam Kwong   
 *CVPR, 2024*    
 [[Paper](https://arxiv.org/abs/2404.09458)] 
 
 **Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**  
-Tao Lu, Mulin Yu, Linning Xu, Yuanbo Xiangli, Limin Wang, Dahua Lin, Bo Dai
+Tao Lu, Mulin Yu, Linning Xu, Yuanbo Xiangli, Limin Wang, Dahua Lin, Bo Dai   
 *CVPR, 2024*    
 [[Paper](https://arxiv.org/abs/2312.00109)] 
 
 **HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression**  
-Yihang Chen, Qianyi Wu, Weiyao Lin, Mehrtash Harandi, and Jianfei Cai
+Yihang Chen, Qianyi Wu, Weiyao Lin, Mehrtash Harandi, and Jianfei Cai   
 *CVPR, 2024*    
 [[Paper](https://arxiv.org/abs/2403.14530)] 
+
+**ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**  
+Yufei Wang, Zhihao Li, Lanqing Guo, Wenhan Yang, Alex C. Kot, Bihan Wen   
+*CVPR, 2024*    
+[[Paper](https://arxiv.org/pdf/2405.20721)] [[Code](https://github.com/wyf0912/ContextGS)]
+
+**Fast Feedforward 3D Gaussian Splatting Compression**  
+Yihang Chen, Qianyi Wu, Mengyao Li, Weiyao Lin, Mehrtash Harandi, Jianfei Cai   
+*arXiv preprint*   
+[[Paper](https://arxiv.org/abs/2410.08017)] [[Code](https://github.com/yihangchen-ee/fcgs/)]  [[Project Page](https://yihangchen-ee.github.io/project_fcgs/)]  
+
+
+
