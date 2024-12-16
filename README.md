@@ -430,6 +430,11 @@ Junsheng Zhou, Jinsheng Wang, Baorui Ma, Yu-Shen Liu, Tiejun Huang, Xinlong Wang
 
 ## 3D Compression
 
+**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**  
+Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang   
+*NeurIPS, 2024, Spotlight*    
+[[Paper](https://arxiv.org/abs/2311.17245)]  [[Code](https://github.com/VITA-Group/LightGaussian)]  [[Project Page](https://lightgaussian.github.io/)]
+
 **CompGS:Efficient 3D Scene Representation via Compressed Gaussian Splatting**  
 Xiangrui Liu, Xinju Wu, Pingping Zhang, Shiqi Wang, Zhu Li, Sam Kwong   
 *CVPR, 2024*    
